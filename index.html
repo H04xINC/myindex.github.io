@@ -85,6 +85,23 @@
       text-align: center;
       font-size: 0.8rem;
     }
+
+    /* Yan resimler */
+    .side-image {
+      position: fixed;
+      top: 50%;
+      transform: translateY(-50%);
+      height: 300px;
+      z-index: 9999;
+    }
+
+    .side-left {
+      left: 10px;
+    }
+
+    .side-right {
+      right: 10px;
+    }
   </style>
 </head>
 <body>
@@ -102,17 +119,14 @@
     <h2>by Reva Cyber</h2>
 
     <div class="greetz">
-<div class="greetz">
-  <p>Greetz ~ H04x, SKY, Flame, Spectra, VYOFGOD</p>
-  <p><i>Veniat rex, ego eum etiam cædebo!</i></p>
+      <p>Greetz ~ H04x, SKY, Flame, Spectra, VYOFGOD</p>
+      <p><i>Veniat rex, ego eum etiam cædebo!</i></p>
 
-  <!-- Telegram logosu buraya eklendi -->
-<div style="margin-top: 10px;">
-  <a href="https://t.me/SkyDeadLine" target="_blank">
-    <img src="https://h04xinc.github.io/myindex.github.io/b8067239f5a0a3e81f77a86c5de9088a.png" alt="Telegram" width="40" height="40">
-  </a>
-</div>
-</div>
+      <div style="margin-top: 10px;">
+        <a href="https://t.me/SkyDeadLine" target="_blank">
+          <img src="https://h04xinc.github.io/myindex.github.io/b8067239f5a0a3e81f77a86c5de9088a.png" alt="Telegram" width="40" height="40">
+        </a>
+      </div>
     </div>
 
     <div class="footer">
@@ -120,10 +134,16 @@
     </div>
   </div>
 
+  <!-- Yan resimler -->
+  <img src="https://imgur.com/FYj3EN4.png" alt="Side Image" class="side-image side-left">
+  <img src="https://imgur.com/FYj3EN4.png" alt="Side Image" class="side-image side-right">
+
+  <!-- Müzik -->
   <audio id="bgMusic" loop>
     <source src="https://h.top4top.io/m_3428m29151.mp3" type="audio/mpeg" />
   </audio>
 
+  <!-- JS -->
   <script>
     function startSite() {
       document.getElementById("startScreen").style.display = "none";
