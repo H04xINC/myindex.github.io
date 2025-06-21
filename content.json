@@ -1,0 +1,887 @@
+[
+  {
+    "sezon": 1,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0ycmtvYTB2anA2emwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 1,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC10d2t3dXA5YWplemguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 1,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ta2QzOHkyZmVxZ3ouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 1,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qOTlwN2puc25paGMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 1,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1vYnl3Y2tleTlmOWIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 1,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ud2Z1NWd4enU0eHYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0yeDg5bXptc2JmcWwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xZ2szNXh2Nmt4NTUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC00MWJ2NTNpdzdtcTguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC01ZXJkY3FveXh2aDQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1vdW9iN2l6anF1dTYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tMjFiOHdpNjV2aWYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zazRodnI4MHRmOGYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zMDhjemsyOGN0dXAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC04eThzOWgxZWdtZ3EuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC15YjVidWNhbTVwYTAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1uc3hkeTQzc2puMDcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1pMjBqNm02MzN1NXYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 2,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC01OG1kZmhkdXQ5MnYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0wa3ZndHllc3V1OHUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1neGFqbjM3amJwNXUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1idXlmMjcycW1lMWIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1oeTAyeWhubmZkam4uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qZTd5Nnp0OTdleGwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1maTJ2aXU1c3ozeWUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1pbzR3dHYwaTdrODIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ob3NxbjhzMGhsbHouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03a3FlNTB4NWdocGkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC04OWZlNXV6ZXkyajMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1oM2FoZjZteDRqd3IuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1wMmhqcWoxczgyMXAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC14Y3VmOTA0MnRrdHIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1laWlicGJhYzc3cTMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qOG80azJ4aHpvbWQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 3,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zeXV6MmN1aWM1ZXouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1jOGNhM3dtd3luaHAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xZGMwdDE2bnRlZ2MuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1mOTk1eGdyZHJhdzUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1vazlmY29xNDk1cW0uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qd3pzdHJhMjN6d2QuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02M2N4cnFicXB2dHMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02ZW80eXZiamFzb3MuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02dWxjOXoyZmk3NDIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1kaTVhNDI2a2l1N2guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1wazM0cXZ5bWpoazguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0wNTl2Y2picGQ5ZjQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tanEwNHdoYTAzdG4uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC10dDNwY2c4eXE1M3UuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xcms5dTFsYm8xZTkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1wbWF0cnRtMDVraTkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 4,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC11MmlseGVhMXllYnMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13dTNnZmRjcHZtaDEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC04ZG55eTY3NnFxeDEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13OHp4amp0MXo2ZDAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03emZvZXpvcmpwNjQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1sY3B2ZHV0aDNhMTMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xcDc1M21nd2hiZ3QuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12cWgyZzVubWdob2guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0weGlodTZ5YjBjcGcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1rZWEwMDB3dmQ4emUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02bGR4djN5YjJ2dnMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1zN2lpZGFqaGZ1cW0uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02a3ZmeXc2ZmljYm8uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16MjNzdDNxbjNqc2guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hdXl3ODI3bm1mYjYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1yb2xiOWpmM3l5bXguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 5,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC05aHg3bTg0eGIyZmUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tNW1haTB5bW03azkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tbGx3anQ3eGptM24uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1zOTBya3l4YzJkbWkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12YWVpM2h4a2l4dzYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1iMDRsMnpwdHppMTYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03bnF5MXo3dWl1NDAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tcmlqa3VtNGVwcDMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC01NWhleXh5Zml2ZGguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ndXRsOWhkbWY2N3cuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tY2l3NG83enVhZzEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tamsxZzhrazZkMDcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xNW82M3A2ajBpOWouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13OXo0czlnNmZtajguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1rOHIyaGFxdG5wajkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03eTRuNTJycGRwa24uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 6,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hYzY5YWV3a2Z2NmouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qZGUwajlzdXAyNXYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1kMWVodTZybXJpemkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xaTlyeW9sNnc3Z2EuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hdmhvMW9tZGFpZjEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xZjdvM3F0NzM5b2cuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1vMHd0NnY4cXIwYW4uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC00MHczdThzZDZiNTcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1pdjZrMXVkZmQzbHUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13Mms2aDl2cDMwaDMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1jdDVuaG56MHVjcjYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1mNnptaTRkZ3I1YWEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13OHJmMXZzZ2o2YWQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zYWZiMmE3b2U5MDUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xcnQ0eWo0aHRxZWEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16YXFmcTV6aXVkY3guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 7,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16dmg5a3A1dGUxbHQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0wM2tvZzhqMDU2ZHguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0yNDM5N2psYm96aGQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12YWt6dzlrYTJvYnguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1rdmZnaXNweXk5bmMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02bTdzcWk4eTR6ajcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1sY251OWs4anBmM2guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xeDgwenk2ZXQyamouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC04c2R1dHpzbHZsMWsuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1pMDgxajVpanVmejguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1yZG00Z3M0dDRxMTIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0wamd6Y3QzYzNzODMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1wMm5vbHRmMHRtNXQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC10ZWpiZGh0aHpibHouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12eThna2dnYTJuZ3AuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xdmhxOGd3emo3cmUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 8,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1yZ2dleTI0cjBvMmEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1oejBkMHY0aTc5NGwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hMXFwYWgwMWdtODguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0ybHZnZmdqYnF1cXcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qNm92cGlubXJ3a3EuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC05YzI0NDI0dWw2MW4uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zdnJwMmE0eTI1MGMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC10dmV2MDB5aWprcWouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1zZm10NWc2ZHdvc3QuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1zcGhhazdhZ3dkMTMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC11bXB3a2M0OXQzYTguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1pZDhwbHp3a2FjcGQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC14MWQ1ZXNwMnE3eXkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1nMW5yM2VmcXk0aHcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC14aTZ1eWJ6ZTlqajAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02d2lpY21nOW9vN3AuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 9,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC14ZWg2MmFsY3d2dXMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1iaDYydXB6cWd0aTAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zaDdjazlycm9ncGkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hb2J3ZHJ5b3k3cTguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1waWo2NDBqcmtpYzMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02dHBnb3U2b2Q0MG0uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12bzdlOTNuaXVlaXAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0wYThidHdnb2xkZnguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0xeWU5bXpwcmcwODAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1jNDljdHRrNmVlYzQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1nanM1YXcxOG4zNnMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zb3A0OWVvNTk4MmMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hM25zYzlnbWljOHMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1naTNjdTlubnFyNWouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ldW1mcXkwaWxiaGsuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03MWV5NjNmbXJkZ2ouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1jcWdicTU2OGVpZW0uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 17,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tdnFmZTBtMnR6MHouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 18,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1lajNtdGp1cmc4enQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 19,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xaWtlYzhneDk1OTMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 20,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC12enI0OWl2c3JuZHEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 21,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ycDllZWtzeDk0amwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 10,
+    "bolum": 22,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1qdGFmZjNzbGVwdWMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 1,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC13bmlxdm16YW1zcDYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 2,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC14Z3J2NTM5ZnVhMHkuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 3,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1tcWh4M2NxODVpeHouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 4,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC03NTlnN3JpZ2E2b2YuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 5,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16aHVrMDRjNHZyemIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 6,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC0zanRjZmg3ZmxwdzguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 7,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1kcWtkM2o1c2g3cDUuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 8,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1kbzU1dml1cHA4ZzAuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 9,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC00dHp4dzhoemZmeWguaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 10,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC05NmlhcTE5eXBvaGMuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 11,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1lMTB3dmIyc29mM24uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 12,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1nYTMwc3VkZjNydnYuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 13,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1hZzNwNGM0ZW0waXEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 14,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1vczRxNG93cG00a3QuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 15,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC02MGQ1OG1xZzVoMWouaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 16,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1ueXZyY3N5bHM5OWwuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 17,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1lY25ldXg5cTFjZ3guaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 18,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1wbDd0Y3VtNjR2enQuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 19,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1idWJnYjI2aGxpZ3IuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 20,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1saWthc2pvNnM1djIuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 21,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1meGdpeHR3aGYzbTEuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 22,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16ZW9iZzU1YWVkeGcuaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 23,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC1xcnZ5N2NzOTZwMG4uaHRtbA?type=series&name=Dizivar"
+  },
+  {
+    "sezon": 11,
+    "bolum": 24,
+    "embed_url": "https://hdfilmcehennemi.vin/stream/aHR0cHM6Ly94LmFnMm0yLmNmZC9lbWJlZC16dDUzZnV5MzF3dG0uaHRtbA?type=series&name=Dizivar"
+  }
+]
